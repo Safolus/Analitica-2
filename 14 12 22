@@ -18,3 +18,40 @@ SM con potere risolutivo alto sono però molto più costosi
 
 
 Sos per EI devono essere termostabili, volatili, massa molecolare non troppo elevata
+
+
+Spettro di massa ottimo per un'analisi qualitativa
+Struttura dello spettro fortemente influenzata dal potenziale di ionizzazione. Per convenzione ogni spettro ottenuto da elettroni con energia a 70 eV (standard universale).
+Se energia diversa questa viene specificata
+
+Intensità e picchi dipendono quindi da analita e energia elettroni
+
+Guardando lo spettro si possono ottenere info strutturali
+
+PIcchi caratteristici: 
+-ione molecolare
+-picco base: picco più intenso dello spettro 
+-picchi isotopici: analizzando lunghe catene carboniose, la probabilità di trovare picchi isotopici di C rilevanti è maggiore
+
+Natura dello spettro dipende dalla struttura e proprietà chimico fisiche degli ioni
+
+
+Maggiore è l'energia degli elettroni maggiore è il numero di ioni formati, fino ad arrivare ad un plateau. (vale per ione molecolare)
+La corrente ionica dei frammenti invece è diversa. a 10 eV non c'è corrente, non basta l'energia per frammentare ulteriormente la molecola. C'è un max oltre il quale qumentando ancora non c'è più un aumento del segnale
+A 70 eV si è in una zona di stabilità, variando poco eV non ci sono differenze di segnale. (condizioni sperimentali stabli e segnale massimo possibile)
+
+
+MASSA DEI PICCHI ISOTOPICI
+COn composti organici, più è lunga la molecola maggiore sarà la probabilità che ci siano isotopi di C
+
+La percentuale dell'isotopo del carbonio è molto più rilevante di quello dell'idrogeno. 
+
+Cl e Br hanno isotopi molto rilevanti
+
+Cl,Br e S danno un segnale a +2 abbastanza rilevante
+
+CLUSTER
+Raggruppamenti di segnali di stessa sostanza ma con isotopi diversi (nello spettro)
+
+PATTERN ISOTOPICO
+In diversi spettri i picchi dei cluster saranno alla stessa distanza tra loro e con uno stesso rapporto. Ogni cluster è caratterizzato da un pattern
