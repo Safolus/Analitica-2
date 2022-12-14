@@ -55,3 +55,34 @@ Raggruppamenti di segnali di stessa sostanza ma con isotopi diversi (nello spett
 
 PATTERN ISOTOPICO
 In diversi spettri i picchi dei cluster saranno alla stessa distanza tra loro e con uno stesso rapporto. Ogni cluster è caratterizzato da un pattern
+
+
+Per calcolare la percentuale del secondo segnale (isotopo meno abbondante) si pone a 100 il primo (isotopo più abbondante) con una proporzione. Per avere la conferma della disposizione dei picchi
+
+
+REGOLA DELL'AZOTO
+Avendo lo spettro di una sos org, si sa che lo ione molecolare ha senz'altro massa dispari se contiene un atomo di azoto (ha massa pari ma valenza dispari(legami)).
+(circa)
+
+
+ACCOPPIAMENTO GC-MS
+MS non si usa praticamente mai da solo (IN analisi quantitative)
+Si usa come detector
+
+Il primo accoppiamento è stato con la GC, anche perché entrambi sono molto potenti
+All'inizio c'erano problemi, siccome questi erano molto diversi (problemi poi superati dalla tecnologia)
+
+1. Pressioni diverse. GC ha flusso continuo, SM ha alto vuoto. Inventate le interfacce, parti strumentali tra GC e MS per rendere compatibili le due tecniche. 
+non serve più perché ci sono colonne capillari, con il flusso che ci passa dentro compatibile con il vuoto. Solo nell'ultima parte della colonna c'è una parte riscaldata in modo che gli analiti rimangano in forma gassosa
+(per LC-GC è ancora necessaria l'interfaccia)
+
+2.Velocità di scansione. Dovuto a velocità di acquisizione del segnale.
+Con FID o ECD di misura una risposta analogia, istante per istante. è continuo
+In MS il segnale è ottenuto in modo diverso, è discreto, a punti. Poi vengono interpolati e si ottiene il picco. Anni fa non si riuscivano ad avere abbastanza punti per approssimarlo in modo ottimale (più si acquisisce velocemente il segnale più l'approssimazione sarà accurata)
+
+3. SPurgo della colonna cromatografica. Alla fine di un'analisi di un campione complesso, di solito si tiene T a circa 300°C (limite massimo di T). Tanti interferenti, ci sono sos poche volatili che si vogliono togliere dalla colonna.
+FS liquida è poco volatile, ma all'aumentare di T, soprattutto alla fine, aumenta il rumore di fondo: piccoli frammenti della FS liquida che si degradano con T e vengono eluiti.
+Con le vecchie colonne l'incremento della linea di base era molto marcato.
+Oggi ci sono colonne fatta apposta per MS, hanno un bleeding della colonna molto limitato (rilascio di FS)
+
+
