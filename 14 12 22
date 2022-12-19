@@ -86,3 +86,30 @@ Con le vecchie colonne l'incremento della linea di base era molto marcato.
 Oggi ci sono colonne fatta apposta per MS, hanno un bleeding della colonna molto limitato (rilascio di FS)
 
 
+
+IDROCARBURI POLICICLICI AROMATICI (PAH)
+why: sono contaminanti ubiquitari. I più pesanti sono mutageni e cancerogeni.
+USEPA ne ha individuati 16 come contaminanti prioritari. Spesso in ambiente marino, la loro presenza è inidice di un apporto dovuto alla combustione o sversamento petrolifero
+(solo una piccola percentuale ha origine naturale)
+
+Fenantrene e antracene sono isomeri di struttura, hanno stessi frammenti, i loro spettri di massa sono praticamente indistinguibili. (quantificati come somma)
+
+Gli ultimi analiti che escono hanno tensione di vapore molto più alta, quindi i picchi sono meno efficienti
+
+Avendo un cromatogramma, si può "estrarre" uno ione e vedere solo il suo picco (SIM)
+Gradini della linea di base di un cromatogramma in SIM, sono caratteristici di questo tipo di cromatogramma. Dipendono dalla ione.
+
+(si sceglie in SIM un solo ione per avere un segnale più sensibile, potendosi concentrare solo su quello)
+
+
+TECNICA DELLA DILUIZIONE ISOTOPICA
+(con GC-MC) Si possono usare std int con un istopo stabile dell'analita in questione. (isotopi non presenti in natura)
+Si riesce ad avere lo stesso analita. Std int perfetto:
+-è l'analita e si comporta come tale
+-massa diversa, quindi MS riesce a distinguerli
+
+Questo si costruisce una retta di calibrazione C/Cd alle ascisse e A/Ad. Si aggiunge a tutti i punti la quantitò di std int.
+X * Cd e rapportata al campione reale
+
+Analiti deuterati costano molto. Ogni analita si riferisce o al proprio std int o a quello di un'analita vicino. 
+
